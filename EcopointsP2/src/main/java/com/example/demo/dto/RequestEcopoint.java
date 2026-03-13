@@ -1,7 +1,7 @@
 package com.example.demo.dto;
 
-import com.example.demo.model.ConditionEcopoint;
-import com.example.demo.model.StatusEcopoint;
+import com.example.demo.model.enums.ConditionEcopoint;
+import com.example.demo.model.enums.StatusEcopoint;
 
 public class RequestEcopoint {
 

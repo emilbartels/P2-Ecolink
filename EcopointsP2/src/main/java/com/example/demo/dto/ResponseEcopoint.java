@@ -1,8 +1,8 @@
 package com.example.demo.dto;
 
 import java.time.LocalDate;
-import com.example.demo.model.ConditionEcopoint;
-import com.example.demo.model.StatusEcopoint;
+import com.example.demo.model.enums.ConditionEcopoint;
+import com.example.demo.model.enums.StatusEcopoint;
 
 public class ResponseEcopoint {
 	
