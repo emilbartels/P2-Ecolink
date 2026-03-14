@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-@RestController
+@RestController //Det er en controller
 @RequestMapping("/api")
 public class EcopointController {
 
