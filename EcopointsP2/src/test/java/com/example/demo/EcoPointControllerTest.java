@@ -48,6 +48,7 @@ public class EcoPointControllerTest {
     }
 
     @Test
+    @WithMockUser
 void getWithNoLatLngValuesFallback() throws Exception {
     mockMvc.perform(get("/api/ecopoints")
             .contentType(MediaType.APPLICATION_JSON))
