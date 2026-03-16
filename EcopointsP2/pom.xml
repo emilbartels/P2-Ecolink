@@ -79,7 +79,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Swagger/OpenAPI — kompatibel med Spring Boot 3 -->
+		<!-- Swagger/OpenAPI -->
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
