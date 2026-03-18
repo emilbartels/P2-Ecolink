@@ -1,4 +1,4 @@
-package com.example.demo.model.embedded;
+package com.ecolink.api.model.embedded;
 
 import lombok.*;
 

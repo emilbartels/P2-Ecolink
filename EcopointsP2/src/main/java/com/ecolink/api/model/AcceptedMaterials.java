@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.ecolink.api.model;
 
 public class AcceptedMaterials {
 

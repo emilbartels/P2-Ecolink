@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.ecolink.api;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;

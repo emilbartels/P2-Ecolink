@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.ecolink.api.controller;
 
-import com.example.demo.dto.EcoPointListItemDTO;
-import com.example.demo.service.EcoPointService;
+import com.ecolink.api.dto.EcoPointListItemDTO;
+import com.ecolink.api.service.EcoPointService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

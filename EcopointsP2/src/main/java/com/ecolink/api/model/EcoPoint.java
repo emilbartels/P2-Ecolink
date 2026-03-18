@@ -1,7 +1,7 @@
-package com.example.demo.model;
+package com.ecolink.api.model;
 
-import com.example.demo.model.embedded.OperatingHoursEntry;
-import com.example.demo.model.enums.MaterialType;
+import com.ecolink.api.model.embedded.OperatingHoursEntry;
+import com.ecolink.api.model.enums.MaterialType;
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.Id;

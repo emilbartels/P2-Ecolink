@@ -1,7 +1,7 @@
-package com.example.demo.repository;
+package com.ecolink.api.repository;
 
-import com.example.demo.model.EcoPoint;
-import com.example.demo.model.enums.MaterialType;
+import com.ecolink.api.model.EcoPoint;
+import com.ecolink.api.model.enums.MaterialType;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.repository.MongoRepository;

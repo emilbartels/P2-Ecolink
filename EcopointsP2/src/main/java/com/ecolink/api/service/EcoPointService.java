@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.ecolink.api.service;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
@@ -12,9 +12,9 @@ import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.NearQuery;
 import org.springframework.stereotype.Service;
 
-import com.example.demo.dto.EcoPointListItemDTO;
-import com.example.demo.model.EcoPoint;
-import com.example.demo.repository.EcoPointRepository;
+import com.ecolink.api.dto.EcoPointListItemDTO;
+import com.ecolink.api.model.EcoPoint;
+import com.ecolink.api.repository.EcoPointRepository;
 
 import java.util.ArrayList;
 import java.util.List;

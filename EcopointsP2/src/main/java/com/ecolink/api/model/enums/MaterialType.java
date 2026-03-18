@@ -1,4 +1,4 @@
-package com.example.demo.model.enums;
+package com.ecolink.api.model.enums;
 
 public enum MaterialType {
     PLASTIC,

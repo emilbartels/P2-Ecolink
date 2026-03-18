@@ -1,8 +1,8 @@
-package com.example.demo.dto;
+package com.ecolink.api.dto;
 
 import java.util.List;
 
-import com.example.demo.model.enums.MaterialType;
+import com.ecolink.api.model.enums.MaterialType;
 
 public class EcoPointListItemDTO {
 

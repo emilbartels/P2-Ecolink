@@ -1,4 +1,4 @@
-package com.example.demo.dto;
+package com.ecolink.api.dto;
 
 public class ClosestEcopointSearch {
 
